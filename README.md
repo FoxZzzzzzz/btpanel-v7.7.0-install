@@ -1,6 +1,6 @@
 # BTPanel-v7.7.0 宝塔面板官方原版一键安装脚本
 
-**此一键安装脚本是宝塔官方原版备份，仅替换成在Github上备份的BTPanel-v7.7.0源文件地址，适用于Centos/Ubuntu/Debian服务器系统，独立运行环境为py3.7，执行一键安装脚本命令如下：**
+**此一键安装脚本是宝塔官方原版备份，仅替换成Github仓库上备份的BTPanel-v7.7.0源文件地址，适用于Centos/Ubuntu/Debian服务器系统，独立运行环境为py3.7，执行一键安装脚本命令如下：**
 
 ```Bash
 curl -sSO https://raw.githubusercontent.com/tudiedie/btpanel-v7.7.0-install/main/install/install_panel.sh && bash install_panel.sh
